@@ -1,0 +1,5 @@
+print("Digite um numero:")
+valorum = input()
+print('Digite o segundo numero: ')
+valordois = input()
+print(int(valorum) + int(valordois))
