@@ -1,0 +1,6 @@
+print("Analisador de texto")
+texto = input("Digite um texto: ")
+print("O texto em maiúsculas é: {}".format(texto.upper()))
+print("O texto em minúsculas é: {}".format(texto.lower()))
+print("A quantidade de caracteres no texto é: {}".format(len(texto)))
+print("O todo contando de espaços é: {}".format(texto.count(" ")))
