@@ -1,0 +1,5 @@
+print("Digite o texto para manipular:")
+texto = input("texto: ")
+print(f"O texto digitado foi: {texto}")
+print(f"O texto em maiúsculas: {texto.upper()}")
+print(f"O texto em minúsculas: {texto.lower()}")
